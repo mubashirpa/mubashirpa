@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mubashir-pa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java language
+- 🌱 I’m currently learning Java & Kotlin languages
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me mubashirpa2002@gmail.com
 
