@@ -33,12 +33,15 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mubashirpa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mubashirpa" /></a></p><br><br>
+<a href="https://www.buymeacoffee.com/mubashirpa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mubashirpa" /></a>
 
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirpa&show_icons=true&locale=en&layout=compact" alt="mubashirpa" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashirpa&show_icons=true&locale=en&layout=compact" alt="mubashirpa" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubashirpa&show_icons=true&locale=en" alt="mubashirpa" /></p>
+<br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirpa&" alt="mubashirpa" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubashirpa&show_icons=true&locale=en" alt="mubashirpa" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirpa&" alt="mubashirpa" />
 
