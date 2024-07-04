@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubashirpa&theme=default" alt="mubashirpa" /></a> </p>
 
-- 🔭 I’m currently working on [Contacts](https://github.com/mubashirpa/Contacts.git)
+- 🔭 I’m currently working on [Encore](https://github.com/mubashirpa/Encore.git)
 - 🌱 I’m currently learning **Kotlin Multiplatform and Compose Multiplatform**
 - 💬 Ask me about **Android and Kotlin**
 - 📫 How to reach me **mubashirpa2002@gmail.com**
